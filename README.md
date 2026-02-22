@@ -39,7 +39,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/Beverage-Price-Prediction.git
+   git clone https://github.com/MindMatrixPro/Beverage-Price-Prediction.git
    cd CodeX
    ```
 
